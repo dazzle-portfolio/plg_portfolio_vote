@@ -1,0 +1,1 @@
+# plg_portfolio_vote
